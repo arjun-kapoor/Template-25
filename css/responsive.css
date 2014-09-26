@@ -6,6 +6,8 @@
 	.videoPan{
 		width:97%;	
 	}
+	.logoDiv{ width:55%;}
+	ul.snIcon{ width:42%;}
 }
 
 @media only screen and (max-width : 751px) {
@@ -19,7 +21,10 @@
 	.videoPan{
 		margin-top:-40%;	
 	}
+	.logoDiv{ width:55%;}
+	ul.snIcon{ width:44%;}
 }
+
 
 @media only screen and (max-width : 640px) {
 	ul.snIcon{
@@ -65,6 +70,7 @@
 	.videoPan{
 		margin-top:-40%;	
 	}
+	.pure-button{ padding:13px 9px;}
 }
 
 @media only screen and (max-width : 480px) {
